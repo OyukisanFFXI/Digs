@@ -1,6 +1,6 @@
 # Digs — FFXI Windower 4 Chocobo Digging Addon
 
-A community-ready copy of the Digs addon with updated FFXI DAT message IDs, Wing Skill tracking, and per-character item history. Based on the original Digs addon by Oyukisan (see the author field in `digs.lua`).
+A community-ready copy of the Digs addon with updated FFXI DAT message IDs, Wing Skill tracking, and per-character item history. Based on the original Digger addon by Svanheulen (see the author field in `digs.lua`).
 
 ## Install
 
@@ -38,4 +38,4 @@ Enter addon commands through the Windower chat command prefix (`//`):
 
 ## Credits
 
-Original addon metadata: **Oyukisan**, Digs v1.2.0. This package retains the original author metadata and provides the updated Lua scripts supplied for this release. Check upstream licensing/permission before publishing a modified distribution.
+Original addon metadata: **svanheulen**, Digger v2.2.0. This package retains the original author metadata and provides the updated Lua scripts supplied for this release. Check upstream licensing/permission before publishing a modified distribution.
