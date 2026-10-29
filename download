@@ -1,0 +1,7 @@
+# Personal data, per-character settings and generated DAT lookup cache
+data/
+settings.xml
+digs_dat_message_ids.lua
+*.log
+__pycache__/
+.DS_Store
